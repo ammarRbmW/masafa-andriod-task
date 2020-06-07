@@ -6,7 +6,6 @@ import androidx.lifecycle.ViewModel;
 import com.example.masafa.data.ProductClient;
 import com.example.masafa.model.Product;
 import com.example.masafa.model.ProductFlushApi;
-import com.example.masafa.pojo.ProductModel;
 
 import java.util.List;
 
